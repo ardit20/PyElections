@@ -1,4 +1,4 @@
-#Kosovo Elections Results Data Visualization - Polls
+# Kosovo Elections Results Data Visualization - Polls
 
 This code uses Python's data analysis library, Pandas, and data visualization libraries, Matplotlib and Seaborn, to visualize the results of Kosovo's parliamentary elections.
 
@@ -8,7 +8,7 @@ Seaborn's sns.barplot() function is used to create a bar chart that shows the pe
 
 Finally, Matplotlib's plt.title(), plt.xlabel(), and plt.ylabel() functions are used to add a title and labels to the chart. The resulting visualization shows the percentage of votes received by each political party in Kosovo's parliamentary elections.
 
-##Libraries used:
+## Libraries used:
 
 • pandas for data analysis and manipulation
 • matplotlib for data visualization
